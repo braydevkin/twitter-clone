@@ -1,6 +1,9 @@
 ## Twitter Clone UI
 
-###Tecnologias usadas
+### Tecnologias Usadas
 
-- ReactJS
-- Typescript
+-[x] *ReactJS*
+-[x] *Typescript*
+-[x] *Styled Components*
+
+[1]: https://www.linkedin.com/in/brayanquirino/
