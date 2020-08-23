@@ -23,7 +23,7 @@
 #### Start app 
 
 - [x] npm start
-- [x] http://localhosto:3000
+- [x] http://localhost:3000
 
 #### Próximas atualizações deste projeto :bulb:
 
